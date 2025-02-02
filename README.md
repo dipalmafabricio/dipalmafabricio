@@ -13,7 +13,7 @@ With a background in economics and strong technical expertise, I transform data 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Pandas | Scikit-Learn | NumPy | pyodbc | XGBoost | Hyperparameter Tuning  
-- 📈 &nbsp; Power BI (DAX) | Looker Studio (BigQuery SQL) | Matplotlib | Seaborn 
-- 📁 &nbsp; SQL | SQL Server | T-SQL | CTE (WITH)  
+- 📈 &nbsp; Power BI (DAX) | Looker Studio | Matplotlib | Seaborn 
+- 📁 &nbsp; SQL | SQL Server | T-SQL | CTE (WITH) | BigQuery SQL
 - 🔧 &nbsp; Visual Studio code | Azure Functions | Git
 - 🔗 &nbsp; API Consumption | Power Automate

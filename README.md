@@ -9,6 +9,7 @@ I thrive in challenging environments, promoting effective team communication, an
 
 With a background in economics and strong technical expertise, I transform data into actionable information for better decision-making.
 
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Pandas | Scikit-Learn | NumPy | pyodbc | XGBoost | Hyperparameter Tuning  

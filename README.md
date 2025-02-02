@@ -14,11 +14,11 @@ With a background in economics and strong technical expertise, I transform data 
 
 - 💻 &nbsp; Python | Pandas | Scikit-Learn | NumPy | pyodbc | XGBoost | Hyperparameter Tuning  
 - 📈 &nbsp; Power BI (DAX) | Looker Studio | Matplotlib | Seaborn 
-- 📁 &nbsp; SQL | SQL Server | T-SQL | CTE (WITH) | BigQuery SQL
+- 🗄️ &nbsp; SQL | SQL Server | T-SQL | CTE (WITH) | BigQuery SQL
 - 🔧 &nbsp; Visual Studio Code | Azure Functions | Git
 - 🔗 &nbsp; API Consumption | Power Automate
 
 
-
+<h3>📂 Data Projects</h3>
 
 Here, you'll find my data projects, showcasing my work with exploratory data analysis (EDA), data visualization, feature engineering, machine learning, hyperparameter tuning, and more.

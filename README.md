@@ -17,3 +17,6 @@ With a background in economics and strong technical expertise, I transform data 
 - 📁 &nbsp; SQL | SQL Server | T-SQL | CTE (WITH) | BigQuery SQL
 - 🔧 &nbsp; Visual Studio Code | Azure Functions | Git
 - 🔗 &nbsp; API Consumption | Power Automate
+
+
+Here, you'll find my data projects, showcasing my work with exploratory data analysis (EDA), data visualization, feature engineering, machine learning, hyperparameter tuning, and more.

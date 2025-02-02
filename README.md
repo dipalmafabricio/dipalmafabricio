@@ -21,4 +21,4 @@ With a background in economics and strong technical expertise, I transform data 
 
 <h3>📂 Data Projects</h3>
 
-Here, you'll find my data projects, showcasing my work with exploratory data analysis (EDA), data visualization, feature engineering, machine learning, hyperparameter tuning, and more.
+Here, you'll find my data projects, highlighting my expertise in exploratory data analysis (EDA), data visualization, feature engineering, machine learning, hyperparameter tuning, and more.
